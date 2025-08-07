@@ -8,6 +8,15 @@
 
 ## 🧠 Tech Stack
 
+- JavaScript
+  - Reactjs/ Expressjs/ Nodejs
+- Python
+  - Library (NumPy, Pandas, scikit-learn, Django)
+- HTML / CSS 
+  - CSS Frameworks (Bootstrap, Tailwind css)
+- SQL, MongoDB
+- PHP
+
 <table><tr><td valign="top" width="33%">
 
 ### 🌐 Frontend  
@@ -17,7 +26,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" alt="Tailwind CSS" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -38,8 +47,7 @@
 <div align="center">  
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/vscode-original.svg" alt="VSCode" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
 </div>
 
@@ -51,8 +59,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" src
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
 ---
@@ -68,29 +76,29 @@
   - React + Express + MongoDB + Tailwind CSS
 
 - 🧠 **AI-Enhanced To-Do List**
-  - Built with React, localStorage, and time-based greetings
+  - Built with React, MongoDB, and time-based greetings
   - Integrating smart suggestions using OpenAI API (coming soon)
 
 ---
 
-## 📚 Learning Goals (2025)
+## 🎯 2025 Goals
 
-- 📱 Mastering React Native for mobile dev
-- 💡 Build real-world AI-powered web tools
-- 🎓 Appear for **IB ACIO**, **CDS**, and **CAT for MBA**
-- ☁️ Learn cloud deployment (Vercel, AWS basics)
+- 📱 Master React Native for mobile app development  
+- ⚙️ Deepen backend expertise with Node.js and Express  
+- 🌐 Learn and deploy real-world apps using Next.js  
+- 💡 Build scalable, meaningful apps that serve the community and funny stuff too 
+- ☁️ Learn cloud deployment (Vercel, AWS basics)  
 
 ---
 
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shlesh-choudhary)  
-- 🎵 [Music (Shelz)](https://www.youtube.com/@shelz)  
+- 🎵 [YouTube (Shelz)](https://www.youtube.com/@shelz)  
 - 🌐 Portfolio: *Coming soon*  
-- 📧 Email: *your_email@example.com*
+- 📧 Email: *chaudharyshlesh1109@gmail.com*
 
 ---
 
-> “I believe in using code to empower people and solve real-world problems.”  
+> “to all the people said coding is boring, you didn't code right”  
 > Let’s collaborate and create impact! 🌍
-
