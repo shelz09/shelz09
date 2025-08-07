@@ -6,19 +6,6 @@
 
 ---
 
-## 🏆 GitHub Rankings
-
-### 📈 Commits
-[![committers.top badge](https://user-badge.committers.top/worldwide/shleshchoudhary.svg)](https://user-badge.committers.top/worldwide/shleshchoudhary)
-
-### 📊 Contributions
-[![committers.top badge](https://user-badge.committers.top/worldwide_public/shleshchoudhary.svg)](https://user-badge.committers.top/worldwide_public/shleshchoudhary)
-
-### 🔐 All Contributions (Private + Public)
-[![committers.top badge](https://user-badge.committers.top/worldwide_private/shleshchoudhary.svg)](https://user-badge.committers.top/worldwide_private/shleshchoudhary)
-
----
-
 ## 🧠 Tech Stack
 
 <table><tr><td valign="top" width="33%">
