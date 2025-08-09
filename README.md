@@ -1,19 +1,11 @@
-# Hi there, I'm Shlesh 👋
-
-🎓 Electronics Engineer | 💻 Full Stack Developer | 📡 IoT & Embedded Enthusiast  
-🔍 Currently exploring AI integration with Full-Stack Development  
-🚀 Building real-world projects using MERN stack, React Native, and Arduino  
-
----
-
 ## 🧠 Tech Stack
 
 - JavaScript
-  - Reactjs/ Expressjs/ Nodejs
+  - React.js / React Native / Express.js / Node.js
 - Python
-  - Library (NumPy, Pandas, scikit-learn, Django)
+  - Libraries: NumPy, Pandas, scikit-learn, Django
 - HTML / CSS 
-  - CSS Frameworks (Bootstrap, Tailwind css)
+  - CSS Frameworks: Bootstrap, Tailwind CSS
 - SQL, MongoDB
 - PHP
 
@@ -22,11 +14,12 @@
 ### 🌐 Frontend  
 <div align="center">  
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -43,12 +36,16 @@
 
 </td><td valign="top" width="33%">
 
-### ☁️ DevOps & Tools  
+### ☁️ DevOps, Tools & Python Libraries  
 <div align="center">  
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /><br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50" />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" height="50" />
 </div>
 
 </td></tr></table>
