@@ -1,3 +1,11 @@
+# Hi there, I'm Shlesh 👋
+
+🎓 Electronics Engineer | 💻 Full Stack Developer | 📡 IoT & Embedded Enthusiast  
+🔍 Currently exploring AI integration with Full-Stack Development  
+🚀 Building real-world projects using MERN stack, React Native, and Arduino  
+
+---
+
 ## 🧠 Tech Stack
 
 - JavaScript  
@@ -55,6 +63,7 @@
 </div>
 
 </td></tr></table>
+
 ---
 
 ## 🐍 Contribution Graph
