@@ -1,10 +1,10 @@
 ## 🧠 Tech Stack
 
-- JavaScript
+- JavaScript  
   - React.js / React Native / Express.js / Node.js
-- Python
-  - Libraries: NumPy, Pandas, scikit-learn, Django
-- HTML / CSS 
+- Python  
+  - Libraries: NumPy, Pandas, scikit-learn  
+- HTML / CSS  
   - CSS Frameworks: Bootstrap, Tailwind CSS
 - SQL, MongoDB
 - PHP
@@ -32,24 +32,29 @@
   <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
 
-### ☁️ DevOps, Tools & Python Libraries  
+### ☁️ DevOps & Tools  
 <div align="center">  
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /><br/>
+  <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
+</div>
+
+---
+
+### 🐍 Python Libraries  
+<div align="center">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50" />
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" height="50" />
 </div>
 
 </td></tr></table>
-
 ---
 
 ## 🐍 Contribution Graph
@@ -64,7 +69,6 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shelz09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shelz09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shelz09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
