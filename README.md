@@ -85,6 +85,14 @@
 
 ---
 
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shelz09&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+  <a href="https://github.com/shelz09/shelz09"><img alt="shelz09's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=shelz09&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <img src="https://wakatime.com/share/@K1rsN7/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
+  </div>
+
+---
+
 ## 📂 Notable Projects
 
 - 🎯 **3D Object Scanner with Arduino**
